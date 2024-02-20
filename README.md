@@ -1,7 +1,7 @@
 # Research Papers Organization - Breast Cancer Analysis (2020-2023)
 
 ## Overview
-This repository contains a Google Sheet file used for organizing research papers related to breast cancer analysis. The focus of the papers is on the utilization of clinical datasets and machine/deep learning techniques. The collection spans the period from 2020 to 2023.
+This repository contains one of my Google Sheet files, it used for organizing research papers related to breast cancer analysis. The focus of the papers is on the utilization of clinical datasets and machine/deep learning techniques. The collection spans the period from 2020 to 2023.
 
 ## Contents
 - **Google Sheet File:** [Link to Google Sheet](https://docs.google.com/spreadsheets/d/e/2PACX-1vSujqTjB6X1EYKXS4012gc0nPICoCqXuYlY_3wZO78B6jE2Ns6CIQbauqiwku_fkw/pubhtml?gid=797673697&single=true)
