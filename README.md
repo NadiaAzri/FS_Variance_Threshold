@@ -21,7 +21,4 @@ The Google Sheet is organized into different sections to facilitate efficient li
 Feel free to explore the Google Sheet to gain insights into the latest research on breast cancer analysis using clinical datasets and machine/deep learning techniques. The organization is designed to assist researchers, practitioners, and enthusiasts in navigating through relevant literature.
 
 ## Contributing
-If you come across additional papers or have suggestions for improvement, please consider contributing by forking the repository and submitting a pull request.
-
-## License
-This repository is open-sourced under the [MIT License](LICENSE).
+If you come across additional papers or have suggestions for improvement, please consider contributing to this file.
