@@ -9,7 +9,7 @@ This repository contains a Google Sheet file used for organizing research papers
 ## Structure of the Google Sheet
 The Google Sheet is organized into different sections to facilitate efficient literature management:
 
-1. **Publication Details:** Includes paper title, authors, publication date, and source.
+1. **Publication Details:** Includes paper title, authors, publication date, source, and URL of the paper.
 
 2. **Clinical Datasets:** Highlights the datasets used in the research, providing insight into the clinical aspects of breast cancer.
 
